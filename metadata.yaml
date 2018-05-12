@@ -1,0 +1,40 @@
+_repo: Works-of-Martin-Luther-with-Introductions-and-Notes--Volume-II-_34904
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Spaeth, Adolph
+    aliases:
+    - Späth, A. (Adolph)
+    - Spaeth, A. (Adolph)
+    - Spath, A. (Adolph)
+    birthdate: 1839
+    deathdate: 1910
+    gutenberg_agent_id: '35354'
+    url: http://www.gutenberg.org/2009/agents/35354
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Luther, Martin
+    birthdate: 1483
+    deathdate: 1546
+    gutenberg_agent_id: '155'
+    url: http://www.gutenberg.org/2009/agents/155
+    wikipedia: http://en.wikipedia.org/wiki/Martin_Luther
+description: '"Adolph Spaeth ... was ... chairman of the committee that organized
+  the work."--introduction of volume I, signed Henry Eyster Jacobs.'
+gutenberg_issued: '2011-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34904'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theology -- History -- 16th century -- Early works to 1800'
+- !lcc 'BR'
+- !lcsh 'Lutheran Church -- Early works to 1800'
+title: Works of Martin Luther, with Introductions and Notes (Volume II)
+url: http://www.gutenberg.org/ebooks/34904
